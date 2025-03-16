@@ -1,5 +1,5 @@
 # Instalacion de Dockers
-Docker es una plataforma que permite crear, distribuir y ejecutar aplicaciones en contenedores, permitiendo su ejecucion en cualquier sistema compatible. https://hub.docker.com/}
+Docker es una plataforma que permite crear, distribuir y ejecutar aplicaciones en contenedores, permitiendo su ejecucion en cualquier sistema compatible. https://hub.docker.com/
 Utilizando esta herramienta el usuario podra utilizar las herramientas de simulacion de supernovas en cualquier lugar sin necesidad de tener linux.
 
 # Instalacion en Linux 
