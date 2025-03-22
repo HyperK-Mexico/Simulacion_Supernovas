@@ -9,7 +9,7 @@ Los programas que se presentaran son los siguientes:
 - WCSim
 - FLOWER
 
-Ademas de mencionar la forma de utilizacion de estos programas en contenedores para su utilización en cualquier computadora.
+Ademas de mencionar la forma de utilizacion de estos programas en contenedores para cualquier computadora.
 
 Para mas informacion acerca de los modelos, los programas y los detectores ver lo siguiente:
 
