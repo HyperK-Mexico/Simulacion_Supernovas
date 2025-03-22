@@ -18,7 +18,7 @@ Se requiere tener `>= python 3.8`, en la terminal, se inserta el siguiente coman
 ```sh
 $ pip install sntools
 ```
-Para asegurarnos que se intalo de manera correcta se ejecuta el siguiente codigo
+Para asegurarnos que se instalo de manera correcta se ejecuta el siguiente codigo
 ```sh
 $ python -c ’import sntools; sntools.setup()’
 ```
